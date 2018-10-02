@@ -1,0 +1,8 @@
+2018-10-02 17:14:29 INFO  App:18 - started1
+2018-10-02 17:14:29 ERROR App:20 - started2
+2018-10-02 17:14:29 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a93a7ca: startup date [Tue Oct 02 17:14:29 CDT 2018]; root of context hierarchy
+2018-10-02 17:14:29 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [META-INF/spring/appContext.xml]
+2018-10-02 17:15:42 INFO  App:18 - started1
+2018-10-02 17:15:42 ERROR App:20 - started2
+2018-10-02 17:15:42 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@28ba21f3: startup date [Tue Oct 02 17:15:42 CDT 2018]; root of context hierarchy
+2018-10-02 17:15:43 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [META-INF/spring/appContext.xml]
