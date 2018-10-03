@@ -1,0 +1,4 @@
+2018-10-02 21:30:00 INFO  App:16 - program starts
+2018-10-02 21:30:00 INFO  ClassPathXmlApplicationContext:581 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@28ba21f3: startup date [Tue Oct 02 21:30:00 CDT 2018]; root of context hierarchy
+2018-10-02 21:30:00 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring/META-INF/app-context.xml]
+2018-10-02 21:30:00 INFO  App:20 - program exits
